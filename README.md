@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @bossnare
-- 👀 I’m interested in Informatic
+- 👀 I’m interested with Informatic
 - 🌱 I’m currently learning to code
-- 💞️ I’m looking to collaborate on tous les developpeurs
 - 📫 How to reach me ...
 
 <!---
