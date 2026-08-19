@@ -60,8 +60,8 @@ Tip: Pin your favorite repos on your GitHub profile for visibility.
 ---
 
 ## GitHub Stats
-![Christo's GitHub stats](https://github-readme-stats.vercel.app/api?username=BossNare&show_icons=true&count_private=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BossNare&layout=compact&theme=dark)
+![Christo's GitHub stats](https://github-readme-stats.vercel.app/api?username=bossnare&show_icons=true&count_private=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bossnare&layout=compact&theme=dark)
 
 ---
 
