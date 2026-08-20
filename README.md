@@ -63,6 +63,3 @@ Tip: Pin your favorite repos on your GitHub profile for visibility.
 ![Christo's GitHub stats](https://github-readme-stats.vercel.app/api?username=bossnare&show_icons=true&count_private=true&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bossnare&layout=compact&theme=dark)
 
----
-
-Thanks for sharing your details — this README is tailored to what you gave me and ready to paste into README.md on your GitHub profile.
